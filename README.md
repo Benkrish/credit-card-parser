@@ -1,8 +1,8 @@
-# 💳 Credit Card Statement Parser
+#  Credit Card Statement Parser
 
 This project is a Python-based PDF parser that extracts 5 key data points from credit card statements across 5 different issuers.
 
-## ✨ Stand-Out Features
+## Stand-Out Features
 
 This project was designed to be robust, scalable, and professional—not just a single script.
 
@@ -10,7 +10,7 @@ This project was designed to be robust, scalable, and professional—not just a 
 - **Interactive Web UI:** The parser is wrapped in a user-friendly Streamlit web application for live demonstration.
 - **Containerized Delivery:** The entire application is containerized with Docker, allowing for a one-click, "it just works" evaluation.
 
-## 🚀 How to Run (Docker)
+##  How to Run (Docker)
 
 This is the recommended way to run the project.
 
@@ -37,3 +37,4 @@ This is the recommended way to run the project.
 2.  Activate it: `.\venv\Scripts\activate.ps1`
 3.  Install dependencies: `pip install -r requirements.txt`
 4.  Run the app: `streamlit run app.py`
+
